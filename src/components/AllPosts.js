@@ -34,7 +34,7 @@ function AllPosts({ articles }) {
           })}
       </div>
       <a href="#start">
-        <button>Scroll back up</button>
+        <button>Scroll back to top</button>
       </a>
     </div>
   );
